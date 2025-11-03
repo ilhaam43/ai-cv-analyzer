@@ -12,7 +12,7 @@
         <!-- Sidebar -->
         <aside class="sidebar">
             <div class="logo">
-                <img src="{{ asset('images/lintasarta-logo.png') }}" alt="Lintasarta Logo" style="height:24px;">
+                <img src="{{ asset('images/lintasarta-logo.png') }}" alt="Lintasarta Logo" style="height:70px;">
             </div>
             <nav>
                 <ul class="nav-menu">

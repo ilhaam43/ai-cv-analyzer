@@ -17,3 +17,8 @@ Route::get('/candidate', function () {
 Route::get('/job-role', function () {
     return view('job-role');
 });
+
+// Generative Chat page
+Route::get('/generative-chat', function () {
+    return view('generative-chat');
+});
